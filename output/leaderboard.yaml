@@ -1,0 +1,36 @@
+Round 1:
+  problems:
+  - score: 8.0
+    statement: 1) Implement a BFS-based pathfinding algorithm to navigate a 2D grid
+      with dynamic obstacles.
+  - score: 4.0
+    statement: 2) Develop a basic Flask web server that manages user login sessions
+      and logs activity.
+Round 2:
+  problems:
+  - score: 8.0
+    statement: Develop a pathfinding algorithm utilizing breadth-first search (BFS)
+      to traverse a two-dimensional grid that features changing obstacles.
+  - score: 8.0
+    statement: 1) Implement a BFS-based pathfinding algorithm to navigate a 2D grid
+      with dynamic obstacles.
+  - score: 4.0
+    statement: 2) Develop a basic Flask web server that manages user login sessions
+      and logs activity.
+  - score: 4.0
+    statement: 2) Create a simple Flask web server that handles user login sessions
+      and records activity logs.
+Round 3:
+  problems:
+  - score: 8.0
+    statement: Develop a pathfinding algorithm utilizing breadth-first search (BFS)
+      to traverse a two-dimensional grid that features changing obstacles.
+  - score: 8.0
+    statement: 1) Implement a BFS-based pathfinding algorithm to navigate a 2D grid
+      with dynamic obstacles.
+  - score: 7.0
+    statement: Create a pathfinding algorithm that uses breadth-first search (BFS)
+      to navigate through a two-dimensional grid with dynamic obstacles.
+  - score: 4.0
+    statement: 2) Create a simple Flask web server that handles user login sessions
+      and records activity logs.

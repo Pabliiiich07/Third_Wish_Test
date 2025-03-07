@@ -1,0 +1,11 @@
+1) Implement a BFS-based pathfinding algorithm to navigate a 2D grid with dynamic obstacles.
+2) Develop a basic Flask web server that manages user login sessions and logs activity.
+3) Build a Naive Bayes text classifier to label incoming documents into pre-defined categories.
+4) Create a concurrency-based producer-consumer queue handling multiple producers and consumers simultaneously.
+5) Write an algorithm to compute prime factorization for large integers efficiently.
+6) Scrape product listings from an online storefront and store the parsed data in a local SQLite database.
+7) Design a logistic regression model to handle multi-class classification using one-vs-rest strategy.
+8) Implement a deck-of-cards simulation, including shuffling, dealing, and basic gameplay actions.
+9) Construct an S3-like object store supporting file uploads, downloads, and version control.
+10) Simulate an environment of 'digital organisms' that evolve through selection, mutation, and crossover events.
+

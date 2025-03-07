@@ -1,0 +1,2 @@
+Problem 1: Develop a pathfinding algorithm that utilizes breadth-first search (BFS) to traverse a two-dimensional grid featuring dynamic obstacles.
+Problem 2: Create a simple Flask web application that handles user login sessions and records activity logs.
